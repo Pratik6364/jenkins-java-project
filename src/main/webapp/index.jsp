@@ -13,11 +13,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Nagaraj is a good boy.</h2>
+      <h2>Rohit is a bad boy.</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Pratikkk</label>
+          <label>Partikkkkkkk</label>
         </div>
         <div class="form-control">
           <input type="password" required />
